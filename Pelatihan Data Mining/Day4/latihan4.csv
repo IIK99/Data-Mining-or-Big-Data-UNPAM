@@ -1,0 +1,335 @@
+Usia,Pendapatan_Bulanan,Status_Pekerjaan,Lama_Bekerja,Status_Pernikahan,Jumlah_Tanggungan,Skor_Kredit,Riwayat_Kredit,Kelayakan_Kredit
+,,Kontrak,,BELUM,0,,cukup,Layak
+,10.4,,18,Belum Menikah,9,542,,layak
+22,,tetap,,Menikah,,,,layak
+,16.7,Kontrak,6,menikah,3,589,BURUK,layak
+,4.2,,,,1,232,baik,layak
+,,,12,menikah,,751,BURUK,
+54,6.7,,2,Belum Menikah,,616,baik,TIDAK
+,5.3,Kontrak,,menikah,8,480,BURUK,layak
+53,,tetap,,Belum Menikah,1,676,cukup,layak
+52,22,Tidak Tetap,,Menikah,0,789,Cukup,TIDAK
+27,8.9,Tidak Tetap,,menikah,10,461,Baik,layak
+,5,Tetap,7,menikah,0,885,Cukup,
+,6.5,wirausaha,6,BELUM,9,639,BURUK,Layak
+,6.4,Tidak Tetap,34,Belum Menikah,7,636,baik,
+,15,Tidak Tetap,26,BELUM,1,484,baik,layak
+35,,,12,Belum Menikah,,,Buruk,Layak
+54,8.5,Tetap,16,Menikah,,440,Baik,
+,,KONTRAK,,menikah,8,,Buruk,TIDAK
+41,,Kontrak,2,,7,450,Buruk,Tidak
+,,Tetap,,Menikah,1,454,Buruk,layak
+,17.3,,8,BELUM,2,,Buruk,Tidak
+,7.6,Wiraswasta,2,,7,242,Buruk,Layak
+,,wirausaha,19,Belum Menikah,1,540,,Tidak
+,21.9,Tidak Tetap,29,menikah,1,397,Buruk,layak
+66,,KONTRAK,7,Belum Menikah,4,810,Buruk,layak
+,3.5,tetap,1,,7,,Buruk,
+41,7.9,wirausaha,,menikah,4,880,BURUK,Tidak
+53,20.9,tetap,,,8,,Cukup,
+,,KONTRAK,,menikah,1,412,baik,
+46,,wirausaha,15,Belum Menikah,5,798,Cukup,
+,21.3,Wiraswasta,,,,,baik,
+,13.2,tetap,,Belum Menikah,2,765,Buruk,layak
+41,,Wiraswasta,4,BELUM,10,612,,TIDAK
+,,wirausaha,0,menikah,,,Cukup,TIDAK
+34,,wirausaha,5,,6,,Baik,Layak
+25,6.9,Tidak Tetap,20,BELUM,9,283,Baik,
+24,,Tetap,0,Menikah,4,,Baik,
+,,Kontrak,5,,,584,BURUK,Tidak
+,,tetap,,Menikah,10,738,cukup,layak
+43,,,4,,,751,baik,TIDAK
+34,13.1,tetap,15,,9,706,Cukup,TIDAK
+39,,tetap,,Belum Menikah,,,,Tidak
+,8.4,tetap,,Belum Menikah,10,,Buruk,TIDAK
+38,7.1,Tidak Tetap,12,Menikah,,494,BURUK,TIDAK
+,13.4,Kontrak,6,menikah,1,762,Buruk,Layak
+52,3.6,Kontrak,18,BELUM,3,458,Baik,Layak
+46,9.5,Wiraswasta,18,Belum Menikah,10,,Cukup,
+45,14.9,tetap,,Menikah,7,738,Cukup,Tidak
+56,,,9,menikah,,840,BURUK,Tidak
+,9.7,wirausaha,3,Belum Menikah,2,369,cukup,
+39,8,tetap,34,BELUM,0,,Buruk,Layak
+,12.9,tetap,18,BELUM,9,799,BURUK,TIDAK
+47,7.3,Wiraswasta,,BELUM,,418,Buruk,layak
+24,13.2,,13,,10,720,Cukup,layak
+25,7.7,Tetap,,Belum Menikah,2,682,Cukup,Layak
+,,tetap,17,BELUM,7,348,Cukup,
+53,7.3,KONTRAK,16,menikah,,875,,Tidak
+51,,wirausaha,14,Belum Menikah,4,838,Buruk,TIDAK
+,12.3,,,,6,738,Baik,Tidak
+47,19.6,KONTRAK,,Menikah,10,,,TIDAK
+,16,Tidak Tetap,2,Menikah,,553,Buruk,Layak
+39,6.5,Wiraswasta,5,,,,Cukup,Tidak
+57,16.8,tetap,17,BELUM,10,,Buruk,TIDAK
+29,3.1,KONTRAK,,menikah,9,,,Layak
+64,12.8,KONTRAK,,menikah,,,Baik,layak
+,3.7,KONTRAK,13,Belum Menikah,,656,Buruk,TIDAK
+64,12.5,Wiraswasta,,menikah,0,535,baik,layak
+54,12.7,Tidak Tetap,,,2,,,TIDAK
+58,3.5,tetap,15,Belum Menikah,7,,BURUK,
+,,Kontrak,26,Menikah,5,627,,layak
+60,24.5,Tetap,12,Menikah,,,cukup,Layak
+67,,Tidak Tetap,2,,7,,Baik,layak
+,,Tetap,0,Belum Menikah,4,489,Cukup,TIDAK
+,11.5,Kontrak,14,,10,634,Baik,TIDAK
+,18,Kontrak,,Belum Menikah,7,,cukup,layak
+,12.9,Kontrak,,Belum Menikah,3,547,baik,TIDAK
+37,6.1,,2,Menikah,,778,cukup,Layak
+,3.5,wirausaha,,menikah,,659,BURUK,TIDAK
+23,9.5,Tidak Tetap,,,5,,Buruk,Layak
+,23.1,Tetap,,BELUM,,724,BURUK,
+41,4.4,KONTRAK,18,Belum Menikah,1,283,baik,TIDAK
+55,,Kontrak,11,menikah,10,883,Baik,Tidak
+46,2.1,Wiraswasta,18,Menikah,,620,baik,
+,12.8,wirausaha,1,BELUM,,787,BURUK,TIDAK
+24,,,5,Menikah,,605,baik,layak
+31,,Kontrak,16,menikah,2,349,Cukup,Tidak
+,,,,,10,842,Cukup,TIDAK
+47,,Tetap,11,menikah,3,577,Baik,Layak
+,,Tetap,12,,3,431,,layak
+,6.6,,,Belum Menikah,8,618,BURUK,
+,10.4,wirausaha,,,1,698,Buruk,layak
+,,wirausaha,20,,,218,Buruk,Tidak
+38,4.5,Kontrak,,,5,,Cukup,
+45,,Wiraswasta,2,menikah,7,,,TIDAK
+35,20.3,Tidak Tetap,28,menikah,,614,,
+29,,Kontrak,7,Menikah,8,350,Baik,Tidak
+49,10.2,Tidak Tetap,5,Belum Menikah,0,,Buruk,Tidak
+19,13.9,,14,Menikah,2,,cukup,TIDAK
+66,5.1,wirausaha,20,Menikah,,,cukup,Tidak
+35,,wirausaha,,menikah,,,Baik,TIDAK
+,,Tetap,4,Belum Menikah,,776,Baik,layak
+,19.6,,20,Menikah,5,550,,Tidak
+37,,,,Belum Menikah,2,871,Buruk,Layak
+44,22.4,KONTRAK,,BELUM,10,,baik,Layak
+48,9.1,KONTRAK,19,,5,654,baik,Layak
+56,5.6,Kontrak,25,,5,,,TIDAK
+23,16.3,wirausaha,,Belum Menikah,9,590,cukup,Tidak
+40,6.1,Tetap,,BELUM,6,,baik,Tidak
+,13.9,Wiraswasta,2,BELUM,,577,cukup,
+39,,Wiraswasta,11,Menikah,1,804,Buruk,
+40,,Kontrak,19,BELUM,9,821,Cukup,layak
+45,,Wiraswasta,,Menikah,0,555,Buruk,Tidak
+50,,tetap,,,,,Cukup,Tidak
+,6.4,Tetap,,,,,Baik,TIDAK
+,,wirausaha,9,Menikah,9,647,Buruk,
+,24.7,wirausaha,,,0,325,baik,Tidak
+30,,wirausaha,10,,5,363,cukup,TIDAK
+36,,,,menikah,6,,BURUK,TIDAK
+39,11.1,KONTRAK,12,BELUM,,,Buruk,Layak
+49,,Kontrak,6,menikah,10,786,cukup,
+46,3.9,,16,,7,713,baik,
+54,13,tetap,1,menikah,6,,,Layak
+47,,Tidak Tetap,1,,10,475,Baik,
+28,10.8,Tidak Tetap,,BELUM,,470,cukup,layak
+50,,KONTRAK,,menikah,4,,Buruk,Tidak
+66,17.4,KONTRAK,,menikah,,756,baik,layak
+30,18,,,BELUM,,,Buruk,Tidak
+,,Tidak Tetap,20,Menikah,,,,Tidak
+21,23.4,,12,menikah,2,733,cukup,Layak
+32,1.4,,5,Menikah,,543,baik,
+54,13.1,Kontrak,,BELUM,,,Buruk,layak
+57,21.5,wirausaha,16,BELUM,5,688,Cukup,Layak
+37,7,tetap,0,menikah,5,321,Buruk,Tidak
+,22.3,Kontrak,18,,1,356,BURUK,
+,,Tidak Tetap,,BELUM,4,688,,
+,,,,,,256,Cukup,
+,11.8,Tetap,12,Belum Menikah,4,,Baik,
+21,2.4,wirausaha,24,BELUM,,738,BURUK,layak
+,7.1,Tetap,19,,10,821,baik,layak
+30,14.2,Tetap,13,Belum Menikah,,,BURUK,Layak
+36,7.2,Tetap,32,Belum Menikah,10,,,layak
+36,13.3,tetap,,,,,baik,Layak
+,,wirausaha,9,BELUM,10,430,,Tidak
+,,Wiraswasta,15,Belum Menikah,6,833,cukup,Tidak
+34,10.8,Tidak Tetap,18,BELUM,8,407,BURUK,Layak
+,9.9,KONTRAK,24,,8,,baik,TIDAK
+,8.1,KONTRAK,10,,1,,cukup,TIDAK
+39,6.3,,21,BELUM,9,950,Cukup,Tidak
+55,,Tetap,16,Menikah,0,831,Baik,Tidak
+,,,15,,4,,Buruk,
+,12.6,Kontrak,3,Belum Menikah,,562,,TIDAK
+40,,Tidak Tetap,,Menikah,9,765,Baik,Layak
+22,16.3,Kontrak,16,Belum Menikah,10,538,BURUK,layak
+,23.3,Tetap,,BELUM,0,,,TIDAK
+38,,Kontrak,16,Menikah,3,,cukup,TIDAK
+,24.8,Tidak Tetap,35,BELUM,,,Buruk,Tidak
+22,,Wiraswasta,20,Menikah,6,568,Baik,Tidak
+28,14.1,Kontrak,5,,,532,Baik,layak
+47,11.4,Wiraswasta,12,menikah,8,474,baik,layak
+36,12.2,,12,Menikah,1,,baik,layak
+38,,Wiraswasta,,Belum Menikah,3,526,BURUK,TIDAK
+57,7.4,KONTRAK,,,1,,Cukup,TIDAK
+,21.3,,4,menikah,,616,baik,
+54,,wirausaha,2,,4,,BURUK,layak
+,,wirausaha,10,Menikah,0,,cukup,
+45,,Wiraswasta,1,Menikah,2,459,Buruk,layak
+42,8.8,,14,menikah,0,,Baik,Tidak
+36,8.6,,,Belum Menikah,9,414,baik,
+48,,Kontrak,,Belum Menikah,2,316,BURUK,TIDAK
+57,,Kontrak,22,,,,Cukup,layak
+32,3.5,wirausaha,,BELUM,7,,BURUK,Tidak
+27,5.1,Tetap,0,Belum Menikah,,868,baik,TIDAK
+62,8.4,Tidak Tetap,2,Belum Menikah,4,,BURUK,TIDAK
+56,,KONTRAK,,BELUM,7,452,Buruk,Layak
+33,13.2,Tidak Tetap,,,5,715,,Tidak
+53,8.9,KONTRAK,,menikah,4,784,Buruk,Tidak
+29,,wirausaha,,menikah,9,,,Layak
+,23.4,,,Menikah,,,BURUK,layak
+,7.2,,20,menikah,4,696,BURUK,Layak
+,12.2,Wiraswasta,14,BELUM,,362,Baik,layak
+22,10.6,wirausaha,,Belum Menikah,,448,baik,Layak
+29,8.8,KONTRAK,,Belum Menikah,3,,,Layak
+37,13.5,Wiraswasta,,Menikah,7,579,BURUK,Tidak
+,7.8,Wiraswasta,24,BELUM,2,541,Cukup,
+,,Tetap,,,,,Baik,Tidak
+52,5.1,Tetap,11,BELUM,9,679,,TIDAK
+,2.9,Tetap,32,,,,cukup,
+26,3.1,Wiraswasta,20,,6,,,Tidak
+24,,Tetap,9,Menikah,,367,Buruk,
+,,tetap,1,BELUM,2,,BURUK,Layak
+,,Wiraswasta,10,Menikah,4,779,Baik,Layak
+19,6.7,Tetap,17,menikah,,563,cukup,layak
+,,Tetap,4,menikah,2,683,Buruk,Tidak
+53,6.4,,6,Belum Menikah,0,754,BURUK,Layak
+,18.6,Kontrak,6,BELUM,3,764,Baik,Tidak
+,,Kontrak,,Belum Menikah,5,703,baik,Tidak
+35,23.2,KONTRAK,28,Belum Menikah,0,799,Cukup,Layak
+45,3.5,Tidak Tetap,19,menikah,0,902,,
+30,17.9,wirausaha,,menikah,2,,BURUK,
+23,3.3,Tetap,1,Belum Menikah,,722,cukup,
+37,,,5,Menikah,0,787,,TIDAK
+18,10.9,Wiraswasta,17,Belum Menikah,,,Buruk,TIDAK
+52,2.8,wirausaha,6,,,,,TIDAK
+,6.2,KONTRAK,19,menikah,,583,Cukup,Layak
+36,,Tetap,24,Belum Menikah,,914,cukup,Layak
+,23.7,tetap,5,Menikah,,,baik,Layak
+42,12.5,KONTRAK,1,,5,738,Baik,layak
+46,6.4,wirausaha,,menikah,,714,BURUK,
+41,11.5,Tetap,,Menikah,10,814,BURUK,
+27,2.4,KONTRAK,,menikah,6,,Baik,layak
+37,1.7,wirausaha,26,BELUM,10,,BURUK,Tidak
+31,12.4,KONTRAK,8,menikah,1,,Baik,layak
+56,,Wiraswasta,19,Menikah,0,,cukup,
+59,2.8,,3,Menikah,6,,cukup,TIDAK
+33,4.7,,19,BELUM,3,757,Cukup,layak
+45,7,tetap,,Menikah,1,,baik,
+35,20.6,,15,menikah,,,cukup,
+60,14.3,Tidak Tetap,6,BELUM,0,821,,
+,2.1,wirausaha,20,,,,,TIDAK
+28,3.9,Kontrak,6,,9,870,cukup,
+51,,wirausaha,25,Belum Menikah,9,220,,layak
+34,13.2,Wiraswasta,28,menikah,,730,baik,Tidak
+64,11.9,Wiraswasta,,,,850,Cukup,Tidak
+33,11.7,Tidak Tetap,23,,,447,baik,
+28,9.6,tetap,2,BELUM,,799,BURUK,Tidak
+,,Tetap,,Belum Menikah,4,822,BURUK,layak
+41,5.8,wirausaha,18,,,,Buruk,layak
+27,7.3,tetap,8,Belum Menikah,4,814,BURUK,layak
+29,24.9,wirausaha,,Menikah,4,,Cukup,
+59,,Wiraswasta,6,Belum Menikah,,813,BURUK,layak
+31,21.9,KONTRAK,,menikah,6,,cukup,
+25,21.8,tetap,13,Belum Menikah,8,691,Buruk,Tidak
+48,,Tetap,28,Belum Menikah,1,650,cukup,TIDAK
+42,14.5,Tidak Tetap,0,,,,Cukup,Tidak
+43,12.8,Wiraswasta,2,menikah,,545,BURUK,Tidak
+48,4.5,Tetap,,Belum Menikah,,658,Buruk,Layak
+57,,Tetap,3,Menikah,9,760,baik,Tidak
+,,Kontrak,,,7,,BURUK,
+28,,Tidak Tetap,8,menikah,9,,baik,Tidak
+51,2,,,Menikah,6,436,Buruk,layak
+50,21.9,KONTRAK,,Menikah,0,,BURUK,Tidak
+39,,Kontrak,11,Menikah,9,,,TIDAK
+47,3.5,Wiraswasta,,BELUM,4,588,cukup,Layak
+47,3.5,Kontrak,8,,,,,layak
+,,Tidak Tetap,,BELUM,,,Cukup,
+51,3,KONTRAK,,Belum Menikah,9,818,baik,TIDAK
+57,13.1,,20,BELUM,,681,,
+57,,,10,Belum Menikah,,,baik,layak
+49,5.9,KONTRAK,,,2,484,,TIDAK
+,3.5,Tidak Tetap,,menikah,0,,Baik,TIDAK
+,3.8,Tetap,,BELUM,,,cukup,Tidak
+23,15.4,wirausaha,15,BELUM,8,812,baik,
+,,Tidak Tetap,,menikah,,,Cukup,
+,3.3,,,,2,667,baik,Tidak
+24,4.6,tetap,8,menikah,1,583,cukup,
+,,tetap,24,BELUM,,,Buruk,Tidak
+66,,KONTRAK,,,7,,Baik,Tidak
+,1.5,tetap,,menikah,8,763,Cukup,layak
+,16.7,KONTRAK,,Belum Menikah,1,802,baik,
+55,,KONTRAK,23,Belum Menikah,10,687,Baik,layak
+,10,KONTRAK,7,menikah,4,,,
+49,16.5,Kontrak,,,0,743,,TIDAK
+,,wirausaha,,Belum Menikah,,569,Baik,Layak
+67,9.3,tetap,24,BELUM,3,599,cukup,Layak
+,9.6,KONTRAK,6,menikah,6,648,baik,Layak
+,,tetap,9,menikah,,472,Baik,
+,9.1,KONTRAK,,,1,831,Cukup,Layak
+,,,20,menikah,6,,cukup,TIDAK
+42,6.2,Kontrak,20,BELUM,,,Cukup,
+40,4.6,Tidak Tetap,27,menikah,8,656,,layak
+52,15.4,Wiraswasta,12,Menikah,5,,Baik,
+,1.4,,9,BELUM,,838,baik,
+22,6.7,Wiraswasta,8,Belum Menikah,,,BURUK,TIDAK
+43,6.2,KONTRAK,,Belum Menikah,8,640,Baik,layak
+,,tetap,,Belum Menikah,9,700,cukup,layak
+,20.5,,,Belum Menikah,3,,Buruk,Tidak
+30,6.7,Tidak Tetap,,Menikah,9,507,BURUK,TIDAK
+22,3.7,Tetap,18,Belum Menikah,,,BURUK,Layak
+39,24.8,Wiraswasta,,Belum Menikah,,723,Cukup,layak
+,2.9,Kontrak,,,5,710,baik,
+,3.4,Wiraswasta,19,BELUM,9,,cukup,TIDAK
+68,,Kontrak,8,BELUM,6,756,Buruk,Tidak
+,12.3,Tetap,,menikah,3,,cukup,layak
+51,,wirausaha,,,7,768,Buruk,layak
+,,Kontrak,,Belum Menikah,,,cukup,Layak
+,2.1,,19,Menikah,7,440,BURUK,TIDAK
+,,Tetap,31,Menikah,10,,cukup,
+35,,Tetap,5,BELUM,9,,Baik,Layak
+52,,KONTRAK,11,,9,204,Cukup,TIDAK
+,2.9,tetap,,BELUM,10,449,,TIDAK
+50,6.8,Tidak Tetap,20,menikah,4,758,Buruk,Layak
+,12.7,,10,,,394,BURUK,Tidak
+36,13.3,Tidak Tetap,19,Menikah,,,Baik,
+47,,tetap,,menikah,,,,TIDAK
+51,,Wiraswasta,,,,,Cukup,TIDAK
+23,6.7,tetap,17,,2,655,baik,layak
+42,,Tidak Tetap,3,,3,353,,Layak
+43,,KONTRAK,19,,6,450,Baik,Tidak
+,18.7,KONTRAK,,menikah,6,,cukup,Tidak
+,4.8,KONTRAK,32,BELUM,,,Cukup,Tidak
+,10,Kontrak,5,menikah,,,baik,layak
+66,13.3,wirausaha,5,Belum Menikah,,,Baik,Tidak
+31,23.5,Tetap,,Menikah,,,baik,layak
+,5.7,Wiraswasta,,menikah,9,753,cukup,TIDAK
+,,wirausaha,34,menikah,3,291,Buruk,layak
+47,5.9,KONTRAK,,Menikah,9,209,,layak
+59,,wirausaha,12,BELUM,7,,Cukup,
+,,tetap,13,Belum Menikah,1,,baik,layak
+60,,Tetap,6,menikah,,404,Cukup,Layak
+30,19.8,KONTRAK,2,Menikah,6,797,cukup,TIDAK
+29,12.6,Tidak Tetap,12,Menikah,,,BURUK,Tidak
+,14.5,Tetap,17,menikah,3,,Cukup,Layak
+57,4.6,Kontrak,12,Menikah,,358,,Layak
+27,,Tetap,,Belum Menikah,5,464,Buruk,
+68,1,KONTRAK,4,BELUM,,,baik,Tidak
+,18.4,Wiraswasta,2,BELUM,,587,,
+45,15.7,Tidak Tetap,,,,,Cukup,
+37,,Kontrak,1,Menikah,6,498,cukup,TIDAK
+,6.8,Tidak Tetap,19,Belum Menikah,5,639,Buruk,
+69,,tetap,,Menikah,2,665,BURUK,Tidak
+55,,Wiraswasta,35,Menikah,10,,BURUK,TIDAK
+27,,Wiraswasta,28,menikah,8,848,,layak
+,,tetap,28,BELUM,6,,Cukup,layak
+21,,tetap,,,4,671,Cukup,Tidak
+,6.8,Kontrak,,Belum Menikah,,566,baik,
+,,wirausaha,3,menikah,3,,BURUK,
+,7,KONTRAK,9,,5,,baik,TIDAK
+,11.1,Wiraswasta,4,BELUM,,604,baik,
+,,Tidak Tetap,,,,776,Cukup,Layak
+66,6.2,Kontrak,27,menikah,8,704,,layak
+,,Wiraswasta,14,Belum Menikah,5,787,Baik,Layak
+36,13.3,KONTRAK,19,BELUM,0,778,Cukup,
+65,9.1,Tetap,12,menikah,6,,Buruk,Layak
+50,,KONTRAK,1,BELUM,,301,baik,

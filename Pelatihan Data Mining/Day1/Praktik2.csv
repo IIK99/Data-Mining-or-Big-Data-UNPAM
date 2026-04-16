@@ -1,0 +1,601 @@
+id_pelanggan,nama,umur,jenis_kelamin,kota,jenis_produk,nama_produk,total_transaksi,tanggal_transaksi
+1100,Dewi,18,P,Depok,Kosmetik,Lipstik,1000000,2024-01-24
+1002,Citra,120,P,Jakarta,Kosmetik,Lipstik,500000,07/01/2024
+1003,Andi,abc,L,bandung,Kosmetik,Skincare Set,1000000,15-01-2024
+1004,Fajar,45,P,Bogor,Elektronik,Smartphone,1000000,31-01-2024
+1005,Citra,45,L,Bekasi,Elektronik,Power Bank,3000000,2024-01-09
+1006,Rudi,abc,L,jakarta,Kosmetik,Lipstik,3000000,10-01-2024
+1007,Gita,22,L,Depok,Kosmetik,Skincare Set,500000,28/01/2024
+1008,Maman,35,P,Bekasi,Elektronik,Smartphone,1500000,12/01/2024
+1009,Ika,22,L,bandung,Kosmetik,Bedak,1000000,2024/01/06
+1010,Ika,abc,L,Bekasi,Fashion,Kaos,1000000,2024-01-27
+1011,Maman,35,L,Depok,Fashion,Sepatu,1000000,2024/01/21
+1012,Rudi,25,P,Surabaya,Fashion,Dress,99999999,18-01-2024
+1013,Nina,120,P,Bekasi,Kosmetik,Lipstik,1000000,2024/01/17
+1014,Budi,22,L,Surabaya,Elektronik,Headset,3000000,2024/01/03
+1015,Rudi,abc,P,bandung,Fashion,Kaos,99999999,2024-01-24
+1016,Ika,40,L,Bogor,Kosmetik,Skincare Set,1000000,2024-01-15
+1017,Ika,abc,L,bandung,Kosmetik,Lipstik,,21-01-2024
+1018,Gita,25,P,Surabaya,Kosmetik,Bedak,,2024-01-30
+1019,Kiki,,L,Bandung,Kosmetik,Skincare Set,,26-01-2024
+1020,Budi,30,L,Bandung,Elektronik,Headset,,03/01/2024
+1021,Sari,abc,L,Bogor,Elektronik,Mouse,,2024/01/20
+1022,Gita,35,P,Bekasi,Elektronik,Headset,3000000,2024-01-15
+1023,Hadi,22,P,Jakarta,Elektronik,Mouse,3000000,08/01/2024
+1024,Citra,18,L,Bandung,Elektronik,Laptop,,2024-01-11
+1025,Hadi,35,P,Depok,Kosmetik,Bedak,1000000,2024/01/24
+1026,Sari,45,L,Bandung,Elektronik,Laptop,99999999,14-01-2024
+1027,Nina,,L,Bandung,Fashion,Kaos,2000000,24-01-2024
+1028,Hadi,30,L,bandung,Elektronik,Headset,1000000,14/01/2024
+1029,Rudi,30,L,DEPOK,Fashion,Kaos,500000,2024-01-21
+1030,Hadi,25,P,DEPOK,Elektronik,Headset,1000000,2024/01/28
+1031,Fajar,45,L,jakarta,Elektronik,Power Bank,,2024/01/26
+1032,Nina,abc,P,Surabaya,Fashion,Dress,1500000,2024-01-07
+1033,Budi,40,L,Jakarta,Kosmetik,Bedak,2000000,17/01/2024
+1034,Citra,25,L,,Elektronik,Laptop,99999999,28/01/2024
+1035,Dewi,120,L,,Fashion,Kaos,3000000,2024/01/03
+1036,Kiki,35,L,Bekasi,Kosmetik,Lipstik,1500000,13/01/2024
+1037,Joko,,P,Bandung,Kosmetik,Lipstik,2000000,2024-01-20
+1038,Gita,abc,P,Surabaya,Elektronik,Power Bank,500000,29/01/2024
+1039,Joko,25,P,bandung,Fashion,Sepatu,3000000,2024-01-26
+1040,Joko,22,L,Bogor,Kosmetik,Lipstik,500000,24/01/2024
+1041,Joko,120,L,Bekasi,Fashion,Dress,99999999,21-01-2024
+1042,Sari,35,L,Bandung,Kosmetik,Bedak,2000000,27-01-2024
+1043,Andi,40,L,Bogor,Elektronik,Smartphone,99999999,2024/01/15
+1044,Andi,22,L,Surabaya,Kosmetik,Bedak,500000,27-01-2024
+1045,Eko,45,L,Jakarta,Kosmetik,Skincare Set,1500000,2024-01-29
+1046,Gita,30,L,Bekasi,Fashion,Tas,3000000,24/01/2024
+1047,Fajar,25,P,Jakarta,Elektronik,Smartphone,99999999,30-01-2024
+1048,Hadi,35,L,Bandung,Fashion,Tas,,2024/01/02
+1049,Gita,,P,Bogor,Elektronik,Smartphone,1000000,01/01/2024
+1050,Kiki,35,L,Bogor,Fashion,Sepatu,99999999,2024/01/17
+1051,Kiki,18,L,Bogor,Kosmetik,Lipstik,3000000,31-01-2024
+1052,Dewi,120,P,Bekasi,Elektronik,Power Bank,2000000,2024-01-20
+1053,Gita,35,L,jakarta,Fashion,Kaos,3000000,30/01/2024
+1054,Nina,22,P,,Fashion,Sepatu,99999999,2024-01-28
+1055,Joko,abc,P,jakarta,Kosmetik,Skincare Set,2000000,23-01-2024
+1056,Eko,30,P,jakarta,Kosmetik,Bedak,99999999,29/01/2024
+1057,Joko,45,L,Bogor,Kosmetik,Skincare Set,1000000,14-01-2024
+1058,Rudi,,L,bandung,Fashion,Tas,,29/01/2024
+1059,Citra,35,P,Bandung,Kosmetik,Lipstik,99999999,10/01/2024
+1060,Eko,18,L,Depok,Elektronik,Headset,3000000,2024-01-28
+1061,Nina,120,L,jakarta,Fashion,Tas,2000000,08/01/2024
+1062,Andi,22,P,Depok,Kosmetik,Lipstik,,2024/01/31
+1063,Hadi,22,P,Surabaya,Elektronik,Headset,99999999,17-01-2024
+1064,Nina,abc,P,Surabaya,Fashion,Tas,2000000,09/01/2024
+1065,Ika,abc,P,Depok,Kosmetik,Skincare Set,2000000,03-01-2024
+1066,Ika,40,P,bandung,Elektronik,Laptop,1000000,05/01/2024
+1067,Eko,30,L,jakarta,Fashion,Tas,1500000,2024/01/18
+1068,Budi,30,P,jakarta,Fashion,Kaos,,2024/01/29
+1069,Andi,40,P,jakarta,Fashion,Tas,3000000,24/01/2024
+1070,Hadi,35,P,DEPOK,Fashion,Kaos,2000000,2024/01/11
+1071,Fajar,,L,,Kosmetik,Bedak,500000,2024/01/30
+1072,Andi,22,P,Surabaya,Kosmetik,Skincare Set,1000000,02-01-2024
+1073,Kiki,30,P,Bekasi,Fashion,Sepatu,,2024/01/29
+1074,Nina,35,L,DEPOK,Fashion,Kaos,99999999,2024-01-18
+1075,Hadi,22,L,Jakarta,Fashion,Dress,1000000,2024-01-27
+1076,Eko,30,L,DEPOK,Kosmetik,Bedak,500000,19/01/2024
+1077,Ika,40,L,,Fashion,Kaos,,27/01/2024
+1078,Dewi,120,L,Bogor,Fashion,Tas,2000000,31/01/2024
+1079,Hadi,22,P,,Elektronik,Laptop,,2024-01-19
+1080,Nina,40,L,bandung,Fashion,Sepatu,500000,2024/01/28
+1081,Dewi,45,P,DEPOK,Fashion,Dress,2000000,06-01-2024
+1082,Sari,,P,,Kosmetik,Skincare Set,1500000,28/01/2024
+1083,Ika,,L,DEPOK,Elektronik,Mouse,3000000,2024/01/22
+1084,Andi,,P,Surabaya,Fashion,Tas,1000000,12-01-2024
+1085,Ika,120,P,bandung,Fashion,Kaos,3000000,31/01/2024
+1086,Hadi,45,P,bandung,Elektronik,Smartphone,99999999,2024/01/16
+1087,Andi,22,P,Depok,Fashion,Tas,99999999,08-01-2024
+1088,Lina,,P,jakarta,Kosmetik,Bedak,3000000,11-01-2024
+1089,Rudi,35,P,Bogor,Kosmetik,Lipstik,500000,24/01/2024
+1090,Dewi,abc,L,Depok,Fashion,Dress,99999999,16-01-2024
+1091,Joko,22,L,Bogor,Kosmetik,Lipstik,1500000,06-01-2024
+1092,Eko,35,L,Jakarta,Elektronik,Mouse,1500000,23/01/2024
+1093,Sari,22,L,,Kosmetik,Skincare Set,2000000,2024/01/16
+1094,Fajar,18,P,DEPOK,Fashion,Kaos,,2024/01/03
+1095,Citra,120,L,Surabaya,Fashion,Dress,,19-01-2024
+1096,Hadi,22,P,,Elektronik,Mouse,,20/01/2024
+1097,Maman,,P,Bogor,Kosmetik,Bedak,2000000,2024-01-10
+1098,Dewi,30,L,Bogor,Kosmetik,Bedak,500000,06/01/2024
+1099,Citra,25,L,jakarta,Elektronik,Headset,99999999,2024/01/20
+1100,Budi,30,P,Bogor,Fashion,Tas,500000,22/01/2024
+1101,Gita,45,L,bandung,Fashion,Dress,99999999,05-01-2024
+1102,Citra,18,L,Bogor,Elektronik,Mouse,99999999,27-01-2024
+1103,Dewi,,P,jakarta,Fashion,Sepatu,3000000,2024/01/18
+1104,Citra,120,L,jakarta,Fashion,Sepatu,3000000,2024-01-09
+1105,Hadi,120,L,Bogor,Elektronik,Mouse,500000,25/01/2024
+1106,Rudi,35,L,,Fashion,Tas,99999999,2024/01/27
+1107,Sari,40,P,Bekasi,Elektronik,Power Bank,99999999,04/01/2024
+1108,Nina,,P,jakarta,Fashion,Kaos,2000000,03-01-2024
+1109,Kiki,22,P,bandung,Fashion,Kaos,99999999,2024/01/28
+1110,Budi,30,P,,Fashion,Tas,99999999,2024-01-15
+1111,Ika,abc,L,Bogor,Elektronik,Headset,99999999,2024-01-16
+1112,Hadi,25,P,bandung,Elektronik,Laptop,3000000,2024-01-14
+1113,Dewi,,L,Surabaya,Elektronik,Headset,99999999,10-01-2024
+1114,Sari,,L,DEPOK,Fashion,Dress,2000000,07/01/2024
+1115,Ika,45,P,bandung,Elektronik,Power Bank,,01-01-2024
+1116,Joko,120,P,Surabaya,Kosmetik,Skincare Set,3000000,16-01-2024
+1117,Maman,,P,Depok,Fashion,Dress,3000000,13/01/2024
+1118,Budi,40,P,jakarta,Fashion,Tas,99999999,26/01/2024
+1119,Budi,25,P,Bandung,Fashion,Tas,500000,2024/01/17
+1120,Eko,45,L,Bandung,Elektronik,Headset,,09-01-2024
+1100,Maman,22,P,bandung,Kosmetik,Skincare Set,1500000,2024/01/21
+1122,Budi,120,L,Depok,Kosmetik,Bedak,99999999,30-01-2024
+1123,Citra,45,L,Bandung,Elektronik,Headset,1000000,23-01-2024
+1124,Budi,40,L,Bogor,Elektronik,Power Bank,1500000,14/01/2024
+1125,Nina,120,L,Surabaya,Elektronik,Smartphone,500000,2024/01/20
+1126,Hadi,,L,Depok,Kosmetik,Skincare Set,99999999,2024/01/09
+1127,Andi,,P,bandung,Fashion,Dress,500000,15-01-2024
+1128,Joko,45,P,DEPOK,Kosmetik,Skincare Set,1000000,2024/01/13
+1129,Hadi,45,P,,Elektronik,Power Bank,99999999,2024-01-10
+1130,Maman,35,L,,Kosmetik,Bedak,,2024-01-24
+1131,Sari,35,L,,Kosmetik,Skincare Set,1000000,21/01/2024
+1132,Ika,25,L,Jakarta,Kosmetik,Skincare Set,,2024-01-15
+1133,Lina,25,L,Bogor,Kosmetik,Skincare Set,99999999,14/01/2024
+1134,Eko,abc,P,bandung,Elektronik,Mouse,1500000,27/01/2024
+1135,Sari,35,P,Bandung,Fashion,Tas,500000,05/01/2024
+1136,Maman,abc,P,Bandung,Kosmetik,Skincare Set,500000,2024-01-09
+1137,Lina,35,P,Bekasi,Fashion,Kaos,99999999,2024/01/08
+1138,Kiki,120,L,Bandung,Elektronik,Headset,99999999,2024/01/10
+1139,Eko,18,L,Bogor,Elektronik,Headset,500000,04/01/2024
+1140,Eko,45,P,Bekasi,Kosmetik,Bedak,99999999,2024/01/23
+1141,Eko,45,L,DEPOK,Kosmetik,Bedak,2000000,31-01-2024
+1142,Lina,30,P,DEPOK,Elektronik,Smartphone,,2024-01-12
+1143,Lina,abc,P,Jakarta,Kosmetik,Skincare Set,1500000,2024-01-07
+1144,Citra,30,L,Jakarta,Fashion,Sepatu,1000000,05/01/2024
+1145,Gita,120,L,Depok,Elektronik,Power Bank,,2024-01-05
+1146,Eko,25,P,Surabaya,Fashion,Kaos,99999999,2024-01-28
+1147,Andi,40,L,,Elektronik,Power Bank,500000,06-01-2024
+1148,Eko,45,L,Bandung,Elektronik,Headset,2000000,25-01-2024
+1149,Dewi,,L,,Kosmetik,Lipstik,99999999,26-01-2024
+1150,Andi,18,P,jakarta,Fashion,Tas,99999999,2024/01/04
+1151,Rudi,22,L,Bekasi,Kosmetik,Bedak,1000000,03/01/2024
+1152,Kiki,45,P,DEPOK,Fashion,Tas,500000,2024-01-26
+1153,Gita,45,P,Depok,Kosmetik,Skincare Set,1500000,2024/01/27
+1154,Nina,22,P,jakarta,Fashion,Sepatu,99999999,09-01-2024
+1155,Sari,22,L,Bandung,Elektronik,Laptop,2000000,04-01-2024
+1156,Budi,120,P,Bandung,Elektronik,Headset,1500000,2024/01/28
+1157,Budi,35,P,Bekasi,Kosmetik,Lipstik,3000000,17/01/2024
+1158,Sari,30,L,Bekasi,Elektronik,Mouse,1500000,04-01-2024
+1159,Hadi,45,L,,Kosmetik,Bedak,,23-01-2024
+1160,Fajar,35,P,Bekasi,Elektronik,Power Bank,500000,06/01/2024
+1161,Maman,22,L,Jakarta,Kosmetik,Lipstik,99999999,17/01/2024
+1162,Nina,,P,Surabaya,Fashion,Sepatu,1500000,24-01-2024
+1163,Citra,18,L,Surabaya,Kosmetik,Bedak,500000,2024-01-22
+1164,Rudi,45,P,,Fashion,Tas,2000000,09/01/2024
+1165,Dewi,40,P,Bandung,Kosmetik,Skincare Set,99999999,2024/01/22
+1166,Joko,18,L,jakarta,Kosmetik,Bedak,500000,01/01/2024
+1167,Gita,25,P,Bogor,Fashion,Sepatu,500000,2024/01/01
+1168,Nina,25,L,jakarta,Kosmetik,Bedak,99999999,08-01-2024
+1169,Maman,18,P,Jakarta,Elektronik,Headset,500000,28-01-2024
+1170,Nina,120,P,jakarta,Kosmetik,Skincare Set,500000,2024-01-13
+1171,Fajar,120,P,Bekasi,Fashion,Kaos,2000000,2024-01-28
+1172,Nina,120,P,bandung,Elektronik,Laptop,2000000,28-01-2024
+1173,Kiki,30,P,Surabaya,Kosmetik,Lipstik,3000000,2024-01-21
+1174,Gita,40,P,Surabaya,Kosmetik,Lipstik,500000,05-01-2024
+1175,Fajar,120,L,Bandung,Elektronik,Smartphone,,2024/01/21
+1176,Rudi,120,P,Bekasi,Fashion,Dress,2000000,2024/01/03
+1177,Joko,35,L,Bekasi,Fashion,Kaos,1500000,2024/01/15
+1178,Budi,40,P,Bandung,Elektronik,Laptop,3000000,2024/01/20
+1179,Budi,,L,Bekasi,Fashion,Tas,3000000,2024-01-05
+1180,Dewi,40,L,bandung,Fashion,Dress,500000,2024/01/08
+1181,Fajar,40,P,Bogor,Fashion,Tas,2000000,25-01-2024
+1182,Budi,40,L,Bekasi,Kosmetik,Lipstik,3000000,2024/01/22
+1183,Ika,120,L,Bekasi,Fashion,Kaos,3000000,22/01/2024
+1184,Joko,45,L,,Fashion,Kaos,1500000,2024/01/18
+1185,Kiki,25,L,jakarta,Kosmetik,Bedak,1500000,01-01-2024
+1186,Fajar,30,P,DEPOK,Fashion,Dress,1000000,05/01/2024
+1187,Joko,22,L,Bekasi,Elektronik,Mouse,1000000,2024/01/20
+1188,Fajar,25,L,DEPOK,Elektronik,Laptop,2000000,12/01/2024
+1189,Joko,,L,bandung,Fashion,Dress,1500000,2024/01/31
+1190,Lina,120,P,DEPOK,Elektronik,Power Bank,,2024/01/13
+1191,Gita,120,L,Bogor,Elektronik,Laptop,99999999,16-01-2024
+1192,Dewi,abc,L,Bogor,Kosmetik,Lipstik,,06-01-2024
+1193,Eko,45,L,Depok,Fashion,Tas,1500000,2024-01-30
+1194,Budi,45,P,Depok,Fashion,Tas,500000,12/01/2024
+1195,Kiki,22,P,Surabaya,Elektronik,Smartphone,500000,2024/01/10
+1196,Eko,,P,,Kosmetik,Lipstik,500000,01-01-2024
+1197,Eko,abc,P,Bandung,Elektronik,Power Bank,1000000,2024-01-10
+1198,Hadi,45,P,Bandung,Elektronik,Laptop,,2024/01/29
+1199,Andi,abc,L,Surabaya,Kosmetik,Skincare Set,2000000,01-01-2024
+1200,Nina,25,L,bandung,Elektronik,Power Bank,500000,2024-01-31
+1201,Sari,18,P,Bekasi,Fashion,Sepatu,99999999,01-01-2024
+1202,Lina,30,L,,Elektronik,Power Bank,1000000,02-01-2024
+1203,Kiki,25,P,DEPOK,Kosmetik,Bedak,1000000,26/01/2024
+1204,Rudi,18,P,Depok,Elektronik,Laptop,,2024-01-07
+1205,Joko,abc,P,bandung,Fashion,Tas,1500000,02/01/2024
+1206,Lina,18,P,Bogor,Fashion,Kaos,,2024/01/12
+1207,Rudi,45,P,Surabaya,Fashion,Tas,99999999,16-01-2024
+1208,Ika,22,P,Bandung,Kosmetik,Skincare Set,3000000,27/01/2024
+1209,Joko,40,L,Bandung,Kosmetik,Skincare Set,99999999,10-01-2024
+1210,Nina,25,P,Bekasi,Fashion,Tas,500000,24-01-2024
+1211,Nina,35,L,Bandung,Kosmetik,Bedak,99999999,13-01-2024
+1212,Fajar,18,L,,Kosmetik,Bedak,,2024-01-15
+1213,Citra,30,P,Bekasi,Elektronik,Headset,3000000,02/01/2024
+1214,Rudi,40,P,DEPOK,Kosmetik,Lipstik,3000000,05-01-2024
+1215,Kiki,35,L,Bandung,Fashion,Kaos,99999999,2024/01/06
+1216,Maman,abc,L,Bogor,Kosmetik,Skincare Set,99999999,15/01/2024
+1217,Joko,,L,Bandung,Kosmetik,Lipstik,,2024/01/03
+1218,Rudi,22,P,Bekasi,Elektronik,Laptop,3000000,18-01-2024
+1219,Fajar,25,P,bandung,Fashion,Dress,500000,07/01/2024
+1220,Sari,18,P,bandung,Elektronik,Mouse,1500000,15/01/2024
+1221,Citra,22,P,jakarta,Kosmetik,Bedak,99999999,2024/01/16
+1222,Citra,25,P,Bandung,Fashion,Tas,2000000,22-01-2024
+1223,Fajar,25,P,bandung,Elektronik,Laptop,,04/01/2024
+1224,Fajar,25,P,Depok,Fashion,Sepatu,3000000,29-01-2024
+1225,Ika,30,P,Surabaya,Elektronik,Power Bank,3000000,2024-01-18
+1226,Fajar,120,L,Surabaya,Kosmetik,Bedak,3000000,24-01-2024
+1227,Budi,18,L,Jakarta,Kosmetik,Bedak,,19-01-2024
+1228,Gita,120,P,,Kosmetik,Bedak,500000,16-01-2024
+1229,Joko,,L,jakarta,Kosmetik,Skincare Set,2000000,2024-01-03
+1230,Rudi,45,P,DEPOK,Elektronik,Smartphone,1500000,20/01/2024
+1231,Kiki,40,P,Surabaya,Fashion,Sepatu,3000000,2024-01-18
+1232,Hadi,,L,Bogor,Fashion,Tas,1000000,2024-01-05
+1233,Joko,45,P,Depok,Elektronik,Smartphone,,11-01-2024
+1234,Fajar,,P,DEPOK,Elektronik,Power Bank,2000000,2024-01-01
+1235,Rudi,30,L,,Fashion,Sepatu,500000,02-01-2024
+1236,Sari,35,L,Bandung,Fashion,Tas,1000000,29-01-2024
+1237,Lina,45,P,Jakarta,Kosmetik,Skincare Set,500000,19/01/2024
+1238,Joko,22,P,bandung,Fashion,Tas,,18-01-2024
+1239,Dewi,25,L,jakarta,Kosmetik,Skincare Set,,11-01-2024
+1240,Gita,120,P,bandung,Elektronik,Laptop,500000,02/01/2024
+1100,Kiki,,P,Surabaya,Kosmetik,Bedak,3000000,05-01-2024
+1242,Kiki,25,P,,Kosmetik,Bedak,,10-01-2024
+1243,Sari,120,P,DEPOK,Kosmetik,Lipstik,1500000,2024-01-11
+1244,Joko,18,P,Bogor,Fashion,Dress,99999999,2024/01/02
+1245,Maman,25,L,Jakarta,Elektronik,Mouse,99999999,04/01/2024
+1246,Rudi,40,P,Surabaya,Elektronik,Headset,99999999,2024/01/07
+1247,Sari,18,L,bandung,Kosmetik,Lipstik,3000000,2024/01/11
+1248,Maman,40,L,DEPOK,Kosmetik,Bedak,1500000,18-01-2024
+1249,Ika,120,P,Depok,Kosmetik,Lipstik,1500000,18-01-2024
+1250,Joko,35,L,DEPOK,Elektronik,Power Bank,2000000,12-01-2024
+1251,Dewi,120,P,jakarta,Fashion,Sepatu,,26/01/2024
+1252,Budi,35,L,Bekasi,Fashion,Tas,99999999,2024/01/09
+1253,Gita,abc,P,bandung,Elektronik,Power Bank,1000000,04/01/2024
+1254,Budi,abc,L,Depok,Elektronik,Laptop,500000,14-01-2024
+1255,Sari,22,L,Jakarta,Kosmetik,Bedak,1000000,2024/01/14
+1256,Gita,35,P,Bogor,Fashion,Kaos,,03/01/2024
+1257,Budi,25,P,Surabaya,Kosmetik,Lipstik,,2024/01/13
+1258,Joko,18,L,Bogor,Elektronik,Mouse,3000000,04-01-2024
+1259,Rudi,abc,P,Surabaya,Fashion,Tas,1500000,2024-01-07
+1260,Fajar,,P,Surabaya,Fashion,Kaos,99999999,11-01-2024
+1261,Gita,25,P,jakarta,Kosmetik,Bedak,1500000,2024/01/03
+1262,Dewi,25,L,DEPOK,Kosmetik,Skincare Set,1000000,01-01-2024
+1263,Hadi,,P,Bekasi,Fashion,Sepatu,3000000,2024-01-24
+1264,Lina,30,L,Bandung,Fashion,Tas,1500000,2024/01/06
+1265,Joko,22,P,Bekasi,Kosmetik,Bedak,1000000,08/01/2024
+1266,Eko,,P,jakarta,Fashion,Tas,,18/01/2024
+1267,Citra,abc,P,bandung,Elektronik,Power Bank,500000,2024-01-30
+1268,Gita,120,L,Surabaya,Elektronik,Power Bank,,2024/01/17
+1269,Gita,120,P,Bandung,Elektronik,Mouse,2000000,2024-01-26
+1270,Eko,abc,P,DEPOK,Fashion,Kaos,3000000,15-01-2024
+1271,Andi,45,P,Jakarta,Kosmetik,Bedak,1000000,2024-01-19
+1272,Nina,40,L,bandung,Elektronik,Laptop,500000,2024/01/30
+1273,Joko,45,L,Surabaya,Elektronik,Headset,1500000,2024/01/29
+1274,Maman,45,L,bandung,Fashion,Dress,99999999,28-01-2024
+1275,Fajar,abc,P,bandung,Elektronik,Smartphone,99999999,2024-01-08
+1276,Joko,,P,bandung,Elektronik,Headset,,08/01/2024
+1277,Lina,25,P,Depok,Fashion,Kaos,500000,2024/01/26
+1278,Andi,30,L,Bandung,Kosmetik,Lipstik,3000000,2024/01/02
+1279,Budi,30,L,jakarta,Kosmetik,Skincare Set,1000000,18/01/2024
+1280,Eko,abc,P,Depok,Elektronik,Mouse,1500000,19-01-2024
+1281,Joko,25,L,jakarta,Elektronik,Power Bank,1500000,02/01/2024
+1282,Nina,abc,P,Jakarta,Kosmetik,Skincare Set,99999999,2024/01/22
+1283,Kiki,45,P,Surabaya,Kosmetik,Skincare Set,2000000,2024/01/06
+1284,Hadi,35,L,DEPOK,Elektronik,Laptop,3000000,2024/01/14
+1285,Eko,45,L,Bogor,Kosmetik,Lipstik,1500000,2024-01-21
+1286,Lina,22,L,Jakarta,Fashion,Sepatu,2000000,2024-01-22
+1287,Gita,120,L,DEPOK,Elektronik,Smartphone,,30-01-2024
+1288,Andi,30,L,Bandung,Fashion,Tas,1000000,23/01/2024
+1289,Hadi,abc,P,Bogor,Fashion,Tas,2000000,18-01-2024
+1290,Ika,40,P,DEPOK,Fashion,Kaos,,2024/01/24
+1291,Gita,40,P,jakarta,Fashion,Kaos,3000000,28/01/2024
+1292,Eko,18,P,bandung,Kosmetik,Bedak,3000000,2024/01/24
+1293,Eko,30,P,Depok,Fashion,Tas,3000000,27/01/2024
+1294,Kiki,35,P,DEPOK,Fashion,Tas,1000000,24-01-2024
+1295,Eko,abc,P,Surabaya,Elektronik,Mouse,99999999,2024-01-31
+1296,Budi,22,L,Jakarta,Kosmetik,Skincare Set,1000000,27/01/2024
+1297,Eko,18,L,bandung,Elektronik,Headset,1500000,2024/01/02
+1298,Sari,18,L,bandung,Kosmetik,Bedak,2000000,2024-01-01
+1299,Ika,abc,P,Jakarta,Kosmetik,Bedak,,2024/01/23
+1300,Dewi,22,L,Depok,Elektronik,Smartphone,3000000,17-01-2024
+1301,Ika,45,L,Bekasi,Fashion,Tas,2000000,19/01/2024
+1302,Hadi,35,L,Jakarta,Kosmetik,Lipstik,2000000,2024/01/13
+1303,Sari,18,L,Surabaya,Kosmetik,Lipstik,2000000,2024/01/28
+1304,Kiki,120,L,bandung,Kosmetik,Lipstik,1000000,2024/01/07
+1305,Budi,22,P,bandung,Fashion,Kaos,1000000,30-01-2024
+1306,Gita,120,L,jakarta,Elektronik,Laptop,1500000,06/01/2024
+1307,Maman,abc,P,jakarta,Kosmetik,Bedak,1000000,2024-01-26
+1308,Lina,18,L,jakarta,Kosmetik,Lipstik,,03-01-2024
+1309,Maman,40,L,Bogor,Kosmetik,Skincare Set,2000000,08-01-2024
+1310,Maman,45,L,,Kosmetik,Bedak,2000000,03-01-2024
+1311,Citra,22,P,Surabaya,Elektronik,Headset,99999999,26/01/2024
+1312,Maman,40,P,Bandung,Kosmetik,Lipstik,500000,31-01-2024
+1313,Lina,35,L,Surabaya,Fashion,Kaos,1000000,2024/01/14
+1314,Nina,22,L,Bandung,Kosmetik,Skincare Set,3000000,03-01-2024
+1315,Andi,35,P,jakarta,Fashion,Kaos,99999999,29/01/2024
+1316,Fajar,45,L,Surabaya,Kosmetik,Skincare Set,1500000,2024/01/09
+1317,Citra,25,P,Bogor,Elektronik,Headset,1500000,2024-01-16
+1318,Ika,30,P,,Fashion,Dress,2000000,04/01/2024
+1319,Andi,45,P,,Fashion,Tas,,28-01-2024
+1320,Kiki,45,L,Bogor,Fashion,Sepatu,3000000,31/01/2024
+1321,Kiki,25,P,Bekasi,Fashion,Sepatu,99999999,2024/01/23
+1322,Hadi,40,P,Bogor,Kosmetik,Skincare Set,1500000,04/01/2024
+1323,Fajar,abc,L,DEPOK,Kosmetik,Bedak,1000000,15-01-2024
+1324,Citra,45,P,Surabaya,Kosmetik,Bedak,1500000,08-01-2024
+1325,Eko,45,P,Bandung,Kosmetik,Skincare Set,3000000,2024/01/16
+1326,Nina,abc,L,Bekasi,Kosmetik,Bedak,,2024-01-18
+1327,Hadi,40,L,,Elektronik,Laptop,3000000,2024/01/21
+1328,Nina,22,L,Bandung,Fashion,Sepatu,1000000,17/01/2024
+1329,Lina,45,P,,Fashion,Dress,1500000,2024/01/01
+1330,Joko,45,L,Bandung,Elektronik,Smartphone,1500000,10-01-2024
+1331,Gita,abc,P,Bekasi,Fashion,Tas,500000,2024/01/15
+1332,Citra,35,L,Bandung,Fashion,Kaos,,2024-01-11
+1333,Fajar,30,L,bandung,Kosmetik,Lipstik,1500000,2024/01/18
+1334,Hadi,45,L,Surabaya,Fashion,Tas,2000000,01/01/2024
+1335,Nina,45,L,Depok,Fashion,Dress,1500000,2024-01-25
+1336,Dewi,abc,L,Bekasi,Kosmetik,Skincare Set,1000000,2024-01-15
+1337,Sari,abc,P,,Fashion,Tas,3000000,2024-01-13
+1338,Lina,,L,Bogor,Fashion,Kaos,99999999,05-01-2024
+1339,Hadi,35,L,Surabaya,Elektronik,Power Bank,99999999,2024/01/05
+1340,Eko,120,P,jakarta,Fashion,Dress,2000000,21/01/2024
+1341,Fajar,,P,Surabaya,Kosmetik,Lipstik,1500000,2024/01/27
+1342,Budi,40,L,DEPOK,Kosmetik,Lipstik,1000000,2024/01/27
+1343,Sari,45,P,jakarta,Kosmetik,Bedak,,2024/01/15
+1344,Citra,120,L,Depok,Elektronik,Power Bank,500000,09/01/2024
+1345,Joko,25,P,,Kosmetik,Bedak,,2024/01/25
+1346,Dewi,120,L,Bogor,Kosmetik,Bedak,,2024-01-12
+1347,Rudi,abc,L,jakarta,Kosmetik,Lipstik,99999999,27/01/2024
+1348,Budi,,P,Bekasi,Fashion,Kaos,2000000,2024-01-28
+1349,Gita,120,P,,Elektronik,Headset,1000000,20/01/2024
+1350,Gita,18,P,bandung,Elektronik,Power Bank,3000000,18/01/2024
+1351,Joko,35,P,bandung,Fashion,Kaos,1000000,2024/01/31
+1352,Ika,25,L,Depok,Elektronik,Smartphone,99999999,11/01/2024
+1353,Maman,,L,,Kosmetik,Bedak,1500000,2024/01/21
+1354,Rudi,22,L,jakarta,Fashion,Sepatu,99999999,30-01-2024
+1355,Sari,40,L,Bandung,Fashion,Tas,99999999,22-01-2024
+1356,Maman,30,P,Depok,Elektronik,Headset,1500000,11-01-2024
+1357,Eko,120,P,Bekasi,Fashion,Kaos,500000,2024/01/04
+1358,Dewi,25,P,DEPOK,Elektronik,Laptop,2000000,07/01/2024
+1359,Joko,25,P,Bandung,Kosmetik,Bedak,1500000,2024-01-09
+1360,Fajar,18,P,Bogor,Fashion,Dress,2000000,2024-01-21
+1100,Dewi,18,L,DEPOK,Kosmetik,Lipstik,1000000,19/01/2024
+1362,Rudi,18,L,Bekasi,Kosmetik,Lipstik,,14/01/2024
+1363,Citra,30,P,Bandung,Fashion,Kaos,500000,11-01-2024
+1364,Eko,45,L,Surabaya,Fashion,Kaos,3000000,2024-01-19
+1365,Fajar,,P,Depok,Kosmetik,Bedak,99999999,2024/01/05
+1366,Rudi,30,L,Bandung,Kosmetik,Lipstik,,2024/01/04
+1367,Nina,40,L,Depok,Fashion,Sepatu,99999999,03/01/2024
+1368,Joko,18,P,Depok,Kosmetik,Bedak,3000000,17/01/2024
+1369,Maman,35,L,Depok,Kosmetik,Skincare Set,2000000,04/01/2024
+1370,Citra,abc,L,Bekasi,Fashion,Sepatu,1000000,2024/01/13
+1371,Fajar,,L,Jakarta,Fashion,Kaos,500000,09/01/2024
+1372,Budi,45,P,bandung,Elektronik,Headset,2000000,2024/01/23
+1373,Eko,35,L,Bogor,Elektronik,Laptop,3000000,30/01/2024
+1374,Kiki,45,L,Bogor,Elektronik,Headset,99999999,31/01/2024
+1375,Hadi,22,P,Bandung,Elektronik,Headset,3000000,2024-01-20
+1376,Fajar,22,L,Surabaya,Fashion,Kaos,1000000,16-01-2024
+1377,Ika,25,P,Surabaya,Kosmetik,Bedak,,28-01-2024
+1378,Dewi,18,P,jakarta,Kosmetik,Skincare Set,3000000,03-01-2024
+1379,Citra,,P,bandung,Kosmetik,Skincare Set,500000,16/01/2024
+1380,Fajar,35,L,,Fashion,Kaos,1000000,2024-01-24
+1381,Andi,30,L,DEPOK,Elektronik,Power Bank,2000000,30/01/2024
+1382,Budi,abc,P,Depok,Elektronik,Power Bank,1000000,14-01-2024
+1383,Citra,120,P,Bandung,Fashion,Kaos,1000000,2024-01-08
+1384,Citra,,P,Bogor,Fashion,Sepatu,500000,2024/01/18
+1385,Lina,30,P,,Elektronik,Power Bank,99999999,20/01/2024
+1386,Lina,120,P,Depok,Fashion,Dress,1000000,2024/01/01
+1387,Hadi,abc,P,Jakarta,Elektronik,Power Bank,500000,2024/01/25
+1388,Joko,22,L,bandung,Kosmetik,Lipstik,2000000,2024-01-16
+1389,Ika,22,L,Depok,Elektronik,Mouse,2000000,23-01-2024
+1390,Citra,120,L,bandung,Fashion,Dress,99999999,2024/01/27
+1391,Budi,45,L,Depok,Elektronik,Power Bank,1500000,28-01-2024
+1392,Kiki,40,P,Bogor,Fashion,Dress,500000,31/01/2024
+1393,Dewi,25,L,Surabaya,Elektronik,Headset,2000000,2024/01/11
+1394,Lina,30,P,Bogor,Elektronik,Headset,1500000,2024-01-28
+1395,Fajar,35,L,Depok,Elektronik,Power Bank,1000000,03/01/2024
+1396,Maman,abc,L,Bogor,Fashion,Sepatu,,2024-01-06
+1397,Rudi,abc,L,Bandung,Fashion,Tas,500000,26/01/2024
+1398,Andi,18,L,Surabaya,Elektronik,Smartphone,,13-01-2024
+1399,Citra,120,P,Bandung,Kosmetik,Lipstik,500000,2024/01/07
+1400,Citra,40,L,Jakarta,Elektronik,Headset,500000,2024/01/06
+1401,Maman,,L,jakarta,Kosmetik,Bedak,2000000,06-01-2024
+1402,Fajar,35,P,DEPOK,Elektronik,Smartphone,500000,20/01/2024
+1403,Joko,,P,bandung,Kosmetik,Skincare Set,500000,03-01-2024
+1404,Eko,45,L,bandung,Fashion,Dress,99999999,2024-01-26
+1405,Lina,,P,Bekasi,Fashion,Sepatu,2000000,09/01/2024
+1406,Kiki,120,L,Jakarta,Elektronik,Power Bank,500000,2024/01/26
+1407,Lina,120,L,Surabaya,Kosmetik,Lipstik,1000000,22/01/2024
+1408,Budi,30,P,Bekasi,Fashion,Dress,1000000,08-01-2024
+1409,Lina,120,L,Bekasi,Kosmetik,Bedak,3000000,05/01/2024
+1410,Joko,25,P,Jakarta,Fashion,Kaos,500000,08/01/2024
+1411,Sari,18,P,,Elektronik,Smartphone,,05-01-2024
+1412,Fajar,40,L,Jakarta,Kosmetik,Lipstik,3000000,23/01/2024
+1413,Lina,22,P,jakarta,Elektronik,Mouse,500000,11-01-2024
+1414,Eko,25,P,DEPOK,Fashion,Sepatu,1000000,23-01-2024
+1415,Fajar,45,P,Bogor,Elektronik,Smartphone,1000000,2024-01-24
+1416,Maman,120,L,Surabaya,Kosmetik,Bedak,1500000,30/01/2024
+1417,Dewi,,L,Bekasi,Kosmetik,Bedak,500000,08-01-2024
+1418,Fajar,22,P,DEPOK,Fashion,Kaos,1500000,07/01/2024
+1419,Citra,40,P,Bandung,Kosmetik,Bedak,500000,2024/01/02
+1420,Nina,25,P,DEPOK,Fashion,Tas,1500000,2024/01/18
+1421,Sari,120,L,Surabaya,Elektronik,Headset,500000,2024-01-26
+1422,Andi,40,P,Bandung,Fashion,Kaos,1500000,2024/01/06
+1423,Citra,abc,L,Bekasi,Elektronik,Mouse,3000000,2024/01/29
+1424,Andi,45,L,,Kosmetik,Skincare Set,1000000,2024-01-02
+1425,Gita,30,P,bandung,Fashion,Sepatu,99999999,10-01-2024
+1426,Dewi,18,P,,Elektronik,Mouse,,16/01/2024
+1427,Lina,18,P,Bandung,Elektronik,Power Bank,,2024/01/22
+1428,Dewi,18,L,Surabaya,Elektronik,Power Bank,500000,2024-01-16
+1429,Maman,,P,Bogor,Fashion,Kaos,99999999,2024/01/18
+1430,Lina,45,P,Surabaya,Elektronik,Headset,500000,2024/01/09
+1431,Ika,30,P,,Fashion,Kaos,1000000,2024-01-25
+1432,Lina,abc,P,,Elektronik,Smartphone,3000000,2024/01/02
+1433,Nina,abc,P,,Kosmetik,Lipstik,2000000,2024-01-10
+1434,Budi,abc,L,Bandung,Fashion,Tas,1000000,31/01/2024
+1435,Gita,25,L,jakarta,Elektronik,Laptop,99999999,14/01/2024
+1436,Eko,120,P,Bekasi,Kosmetik,Bedak,,2024-01-03
+1437,Maman,abc,P,Bogor,Fashion,Tas,,2024/01/01
+1438,Nina,25,L,,Elektronik,Mouse,3000000,2024-01-25
+1439,Dewi,35,P,jakarta,Elektronik,Power Bank,2000000,2024/01/21
+1440,Sari,18,L,Bogor,Kosmetik,Skincare Set,1000000,2024/01/20
+1441,Maman,40,L,Jakarta,Elektronik,Headset,1500000,29-01-2024
+1442,Kiki,35,P,Bogor,Elektronik,Headset,,2024-01-23
+1443,Eko,35,P,Bekasi,Elektronik,Power Bank,99999999,2024-01-14
+1444,Rudi,30,P,DEPOK,Elektronik,Mouse,,2024-01-12
+1445,Fajar,22,P,bandung,Kosmetik,Skincare Set,1000000,2024-01-25
+1446,Gita,30,L,Depok,Elektronik,Laptop,2000000,02-01-2024
+1447,Gita,35,P,DEPOK,Kosmetik,Bedak,2000000,2024-01-21
+1448,Andi,30,P,DEPOK,Kosmetik,Bedak,2000000,2024/01/06
+1449,Lina,40,L,Bogor,Kosmetik,Bedak,,2024-01-23
+1450,Andi,45,L,Surabaya,Fashion,Dress,,08/01/2024
+1451,Gita,35,P,bandung,Kosmetik,Lipstik,,2024-01-25
+1452,Eko,25,L,Depok,Fashion,Sepatu,3000000,26-01-2024
+1453,Ika,45,P,Bekasi,Kosmetik,Skincare Set,1500000,2024/01/07
+1454,Maman,120,L,Jakarta,Fashion,Sepatu,3000000,21-01-2024
+1455,Dewi,,L,Bekasi,Fashion,Sepatu,99999999,11-01-2024
+1456,Joko,30,L,bandung,Fashion,Dress,500000,2024/01/26
+1457,Kiki,25,L,DEPOK,Kosmetik,Skincare Set,1500000,2024/01/30
+1458,Maman,18,L,Bekasi,Fashion,Dress,99999999,2024/01/18
+1459,Lina,abc,P,Surabaya,Kosmetik,Bedak,3000000,06-01-2024
+1460,Sari,25,P,bandung,Elektronik,Smartphone,99999999,29-01-2024
+1461,Citra,30,P,Depok,Kosmetik,Bedak,,2024/01/10
+1462,Lina,35,P,DEPOK,Fashion,Kaos,2000000,2024-01-02
+1463,Gita,abc,L,jakarta,Fashion,Sepatu,2000000,02/01/2024
+1464,Gita,40,P,,Elektronik,Headset,1000000,11/01/2024
+1465,Sari,40,L,Bekasi,Elektronik,Laptop,500000,15-01-2024
+1466,Fajar,120,L,DEPOK,Elektronik,Laptop,1000000,2024/01/20
+1467,Nina,45,P,DEPOK,Kosmetik,Skincare Set,500000,02/01/2024
+1468,Lina,18,P,bandung,Kosmetik,Lipstik,500000,2024-01-22
+1469,Hadi,30,P,Bogor,Kosmetik,Lipstik,500000,13-01-2024
+1470,Citra,18,P,Bogor,Elektronik,Headset,99999999,17-01-2024
+1471,Eko,40,P,Bekasi,Fashion,Dress,1000000,2024/01/31
+1472,Hadi,30,L,Depok,Elektronik,Laptop,3000000,17/01/2024
+1473,Lina,18,P,Bogor,Elektronik,Mouse,3000000,2024-01-02
+1474,Dewi,18,L,Bandung,Kosmetik,Skincare Set,2000000,2024-01-13
+1475,Ika,,L,Depok,Kosmetik,Bedak,99999999,2024-01-21
+1476,Nina,22,P,,Fashion,Dress,2000000,2024-01-27
+1477,Dewi,35,L,Bandung,Kosmetik,Skincare Set,1000000,20/01/2024
+1478,Gita,40,P,Bogor,Fashion,Dress,500000,2024/01/18
+1479,Sari,40,L,Jakarta,Elektronik,Laptop,99999999,2024-01-03
+1480,Sari,25,L,bandung,Kosmetik,Lipstik,99999999,2024-01-24
+1100,Hadi,,P,Bogor,Fashion,Tas,500000,04/01/2024
+1482,Joko,40,P,jakarta,Elektronik,Laptop,500000,2024-01-28
+1483,Eko,25,P,Bekasi,Elektronik,Headset,3000000,2024-01-09
+1484,Kiki,25,L,jakarta,Fashion,Tas,2000000,2024/01/09
+1485,Sari,45,L,Bandung,Kosmetik,Lipstik,99999999,2024-01-24
+1486,Dewi,45,P,,Elektronik,Headset,1000000,2024/01/20
+1487,Andi,25,P,DEPOK,Fashion,Kaos,2000000,2024-01-15
+1488,Ika,40,L,bandung,Elektronik,Mouse,99999999,19/01/2024
+1489,Kiki,abc,L,jakarta,Kosmetik,Bedak,99999999,2024/01/08
+1490,Maman,25,L,Jakarta,Fashion,Dress,3000000,2024/01/28
+1491,Fajar,22,P,Bekasi,Fashion,Dress,1500000,2024-01-09
+1492,Hadi,abc,P,jakarta,Kosmetik,Lipstik,500000,2024/01/15
+1493,Rudi,22,P,DEPOK,Kosmetik,Skincare Set,500000,2024-01-16
+1494,Maman,45,L,bandung,Elektronik,Mouse,500000,2024-01-27
+1495,Joko,abc,L,DEPOK,Kosmetik,Skincare Set,1500000,2024-01-27
+1496,Rudi,40,P,Bekasi,Elektronik,Headset,500000,04/01/2024
+1497,Kiki,40,P,bandung,Elektronik,Mouse,1500000,2024-01-23
+1498,Fajar,,L,jakarta,Elektronik,Laptop,1500000,20/01/2024
+1499,Dewi,45,L,DEPOK,Elektronik,Smartphone,99999999,2024-01-11
+1500,Budi,120,L,DEPOK,Fashion,Tas,99999999,19/01/2024
+1501,Andi,abc,L,bandung,Fashion,Tas,,2024/01/19
+1502,Fajar,120,L,Surabaya,Kosmetik,Lipstik,2000000,22-01-2024
+1503,Maman,45,L,Bogor,Kosmetik,Skincare Set,1500000,2024/01/10
+1504,Eko,45,P,bandung,Elektronik,Power Bank,99999999,24/01/2024
+1505,Gita,120,P,Bekasi,Elektronik,Smartphone,99999999,21/01/2024
+1506,Kiki,22,P,bandung,Kosmetik,Skincare Set,3000000,2024/01/19
+1507,Joko,45,L,bandung,Kosmetik,Lipstik,500000,13/01/2024
+1508,Budi,30,P,Surabaya,Elektronik,Power Bank,99999999,09/01/2024
+1509,Joko,30,L,Bekasi,Elektronik,Headset,500000,20/01/2024
+1510,Maman,30,P,Jakarta,Kosmetik,Skincare Set,2000000,14-01-2024
+1511,Budi,18,P,Depok,Kosmetik,Bedak,,2024/01/25
+1512,Lina,120,L,Depok,Elektronik,Power Bank,2000000,2024-01-06
+1513,Fajar,abc,L,jakarta,Elektronik,Laptop,2000000,09-01-2024
+1514,Fajar,120,P,Jakarta,Elektronik,Power Bank,2000000,23/01/2024
+1515,Eko,40,L,,Elektronik,Power Bank,2000000,26-01-2024
+1516,Kiki,abc,L,Surabaya,Elektronik,Mouse,500000,26/01/2024
+1517,Maman,22,P,Depok,Fashion,Dress,99999999,11-01-2024
+1518,Joko,30,P,bandung,Fashion,Kaos,500000,22-01-2024
+1519,Hadi,120,L,Jakarta,Fashion,Sepatu,2000000,2024-01-30
+1520,Ika,abc,P,Jakarta,Fashion,Sepatu,3000000,2024/01/26
+1521,Budi,35,L,Bekasi,Fashion,Kaos,500000,2024-01-06
+1522,Citra,30,L,jakarta,Kosmetik,Lipstik,1000000,2024/01/18
+1523,Citra,25,L,DEPOK,Kosmetik,Bedak,1500000,2024-01-02
+1524,Budi,25,P,bandung,Elektronik,Laptop,3000000,27/01/2024
+1525,Nina,45,P,jakarta,Fashion,Tas,1500000,2024/01/01
+1526,Dewi,abc,L,,Kosmetik,Lipstik,,2024-01-24
+1527,Citra,40,L,Bogor,Kosmetik,Bedak,1500000,2024-01-20
+1528,Rudi,45,P,Jakarta,Fashion,Tas,1000000,18/01/2024
+1529,Maman,abc,P,Surabaya,Elektronik,Power Bank,99999999,29-01-2024
+1530,Eko,22,L,Jakarta,Elektronik,Mouse,3000000,2024-01-13
+1531,Gita,40,L,jakarta,Fashion,Dress,1000000,06/01/2024
+1532,Ika,30,L,Surabaya,Kosmetik,Bedak,,2024-01-19
+1533,Rudi,abc,L,Bogor,Kosmetik,Bedak,500000,2024-01-09
+1534,Sari,40,P,Surabaya,Elektronik,Smartphone,500000,2024-01-10
+1535,Kiki,,P,Bekasi,Elektronik,Mouse,99999999,10/01/2024
+1536,Lina,40,P,Surabaya,Kosmetik,Lipstik,1500000,08/01/2024
+1537,Nina,35,P,Surabaya,Kosmetik,Bedak,99999999,2024/01/11
+1538,Rudi,40,P,DEPOK,Fashion,Kaos,1000000,2024-01-21
+1539,Eko,abc,L,Bogor,Fashion,Kaos,99999999,2024-01-03
+1540,Andi,120,P,,Kosmetik,Lipstik,500000,18-01-2024
+1541,Sari,25,P,jakarta,Kosmetik,Lipstik,,19-01-2024
+1542,Rudi,abc,L,jakarta,Elektronik,Power Bank,3000000,01/01/2024
+1543,Fajar,abc,L,DEPOK,Kosmetik,Lipstik,1000000,19/01/2024
+1544,Sari,40,L,Depok,Kosmetik,Skincare Set,1000000,03-01-2024
+1545,Hadi,18,L,bandung,Fashion,Sepatu,2000000,2024/01/16
+1546,Budi,40,L,bandung,Elektronik,Power Bank,,24-01-2024
+1547,Fajar,45,P,Bekasi,Kosmetik,Bedak,99999999,2024-01-29
+1548,Ika,45,L,bandung,Kosmetik,Skincare Set,1500000,27-01-2024
+1549,Sari,120,L,bandung,Fashion,Dress,2000000,06/01/2024
+1550,Ika,30,L,Surabaya,Elektronik,Smartphone,1500000,2024-01-20
+1551,Hadi,45,P,Bandung,Kosmetik,Skincare Set,99999999,2024/01/16
+1552,Fajar,45,L,Depok,Elektronik,Laptop,1000000,19/01/2024
+1553,Budi,120,L,Jakarta,Elektronik,Smartphone,1500000,30/01/2024
+1554,Maman,120,L,Bogor,Kosmetik,Lipstik,1000000,2024/01/15
+1555,Fajar,30,P,,Fashion,Dress,,19/01/2024
+1556,Ika,25,P,DEPOK,Kosmetik,Bedak,3000000,03/01/2024
+1557,Maman,25,L,Jakarta,Fashion,Dress,3000000,2024/01/28
+1558,Dewi,25,P,,Elektronik,Mouse,500000,2024-01-29
+1559,Sari,25,L,jakarta,Elektronik,Mouse,2000000,2024-01-12
+1560,Nina,30,P,jakarta,Kosmetik,Skincare Set,3000000,2024-01-26
+1561,Eko,35,P,Depok,Fashion,Kaos,1500000,2024/01/20
+1562,Gita,18,L,,Fashion,Kaos,3000000,2024/01/01
+1563,Gita,40,P,Bekasi,Kosmetik,Lipstik,1000000,14-01-2024
+1564,Nina,120,P,,Fashion,Sepatu,99999999,13/01/2024
+1565,Sari,25,P,bandung,Fashion,Tas,1500000,10-01-2024
+1566,Maman,25,L,Depok,Kosmetik,Skincare Set,,23/01/2024
+1567,Gita,abc,P,Bekasi,Elektronik,Mouse,3000000,2024-01-23
+1568,Maman,18,L,Surabaya,Elektronik,Headset,3000000,2024-01-14
+1569,Ika,30,P,Bandung,Elektronik,Mouse,500000,2024/01/24
+1570,Joko,120,L,Surabaya,Fashion,Tas,2000000,01/01/2024
+1571,Joko,30,L,,Kosmetik,Bedak,3000000,23/01/2024
+1572,Fajar,18,P,Depok,Kosmetik,Bedak,500000,2024-01-06
+1573,Maman,40,P,jakarta,Fashion,Dress,3000000,2024-01-01
+1574,Joko,abc,P,Bekasi,Elektronik,Power Bank,1000000,20/01/2024
+1575,Maman,120,L,Bogor,Fashion,Dress,2000000,2024-01-17
+1576,Citra,abc,P,Bekasi,Kosmetik,Lipstik,,17-01-2024
+1577,Ika,,P,,Kosmetik,Skincare Set,,08-01-2024
+1578,Rudi,120,L,DEPOK,Fashion,Kaos,1500000,2024/01/03
+1579,Hadi,30,P,jakarta,Kosmetik,Skincare Set,3000000,2024-01-18
+1580,Ika,30,P,Bandung,Kosmetik,Skincare Set,99999999,24-01-2024
+1581,Fajar,,P,Bekasi,Elektronik,Smartphone,3000000,09/01/2024
+1582,Gita,,L,Depok,Kosmetik,Bedak,1000000,28-01-2024
+1583,Hadi,30,L,,Elektronik,Power Bank,1000000,2024-01-25
+1584,Citra,,L,bandung,Elektronik,Laptop,,16-01-2024
+1585,Kiki,,P,DEPOK,Kosmetik,Lipstik,,30-01-2024
+1586,Hadi,120,L,Jakarta,Fashion,Tas,2000000,2024-01-31
+1587,Lina,45,L,DEPOK,Kosmetik,Lipstik,99999999,2024/01/17
+1588,Andi,18,L,jakarta,Fashion,Kaos,1500000,12-01-2024
+1589,Ika,30,P,DEPOK,Elektronik,Mouse,1500000,12/01/2024
+1590,Nina,30,P,Bekasi,Fashion,Sepatu,,13-01-2024
+1591,Fajar,120,L,,Fashion,Dress,,04-01-2024
+1592,Nina,45,L,Surabaya,Elektronik,Smartphone,2000000,2024-01-26
+1593,Nina,,L,bandung,Elektronik,Mouse,99999999,2024/01/11
+1594,Ika,abc,L,jakarta,Fashion,Kaos,99999999,2024-01-06
+1595,Ika,,L,DEPOK,Elektronik,Power Bank,1500000,12-01-2024
+1596,Ika,40,L,jakarta,Kosmetik,Lipstik,1500000,28/01/2024
+1597,Fajar,35,P,Bekasi,Kosmetik,Bedak,3000000,2024/01/16
+1598,Maman,120,P,DEPOK,Elektronik,Smartphone,,06-01-2024
+1599,Maman,22,L,Surabaya,Fashion,Sepatu,1000000,11-01-2024
+1600,Joko,35,P,Bogor,Kosmetik,Skincare Set,,28-01-2024
